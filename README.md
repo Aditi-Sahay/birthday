@@ -1,6 +1,6 @@
 # Happy birthday digital card
 
-A single-page, four-screen birthday interaction built as a playful gift and a small front-end portfolio piece. Purple synthwave/CRT aesthetic, pixel-styled UI, zero dependencies to install — just open the HTML file.
+A single-page, four-screen birthday interaction built as a playful gift and a small front-end portfolio piece. Purple synthwave/CRT aesthetic, pixel-styled UI, zero dependencies to install
 
 
 ---
